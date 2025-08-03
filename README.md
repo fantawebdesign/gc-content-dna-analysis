@@ -25,6 +25,9 @@ markdown
 
 ## Output Screenshot
 
-![DNA Output](https://raw.githubusercontent.com/FathinGithub/fasta-project/main/screenshot.png)
+## Output Screenshot
+
+![DNA Output](https://github.com/fantawebdesign/gc-content-dna-analysis/blob/main/Figure_1.png?raw=true)
+
 
 
