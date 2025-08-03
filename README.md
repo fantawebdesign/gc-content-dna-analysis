@@ -23,8 +23,8 @@ This is a simple Python mini-project for analyzing real DNA sequence data (FASTA
 markdown
 ## Output Example
 
-![DNA Graph] (<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/a76972bb-6831-4299-957f-2ca43a81591c" />
-)
+## Output Screenshot
 
+![DNA Output](https://raw.githubusercontent.com/FathinGithub/fasta-project/main/screenshot.png)
 
 
