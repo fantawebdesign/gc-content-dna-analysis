@@ -21,9 +21,10 @@ This is a simple Python mini-project for analyzing real DNA sequence data (FASTA
 
 ```bash
 markdown
-## Output example
+## Output Example
 
-![DNA GRAPH] (https://github.com/fantawebdesign/gc-content-dna-analysis/blob/main/Figure_1.png)
+![DNA Graph] (<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/a76972bb-6831-4299-957f-2ca43a81591c" />
+)
 
 
 
